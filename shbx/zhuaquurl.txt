@@ -1,0 +1,27 @@
+上海百姓网
+	家庭装修：http://shanghai.baixing.com/jiatingzhuangxiu/
+	工装装修：http://shanghai.baixing.com/zhuangxiu/
+	拆旧服务：http://shanghai.baixing.com/chaijiu/
+	
+	软装装饰：http://shanghai.baixing.com/ruanzhuang/
+	
+	建材：http://shanghai.baixing.com/jiancaizhuangshi/
+	
+	搬家服务：http://shanghai.baixing.com/banjia/
+	家电维修：http://shanghai.baixing.com/jiadianweixiu/
+	
+	电脑维修：http://shanghai.baixing.com/diannaoweixiu/
+	
+	管道维修：http://shanghai.baixing.com/weixiu/
+	
+	家具维修：http://shanghai.baixing.com/jiajuweixiu/
+	房屋维修：http://shanghai.baixing.com/fangwuweixiu/
+	
+	手机维修：http://shanghai.baixing.com/shoujiweixiu/
+	
+	
+	
+	 meta = {
+                      'dont_redirect': True,
+                      'handle_httpstatus_list': [302]
+                  },
